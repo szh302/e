@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
 DOMAIN-SUFFIX,ap-cn03.emby.bangumi.ca
 DOMAIN-SUFFIX,ap-cn04.emby.bangumi.ca
 DOMAIN-SUFFIX,theluyuan.com
+IP-CIDR,199.188.198.202/32
 DOMAIN-SUFFIX,cdn.bgp.yt
 DOMAIN-KEYWORD,auto.dolby.dpdns.org
 DOMAIN-KEYWORD,emby.snove.qzz.io
