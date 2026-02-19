@@ -4,9 +4,14 @@ DOMAIN-SUFFIX,emby.snove.qzz.io
 DOMAIN-SUFFIX,line.xmsl.org
 DOMAIN-SUFFIX,loserembylocal.zabc.net
 DOMAIN-SUFFIX,313445.xyz
+DOMAIN-SUFFIX,emby.605305.xyz
+DOMAIN-SUFFIX,ofo.033388.xyz
+DOMAIN-SUFFIX,reverse.605305.xyz
 DOMAIN-SUFFIX,link00.okemby.org
 DOMAIN-SUFFIX,link01.okemby.org
 DOMAIN-SUFFIX,cf.wedg.top
+IP-CIDR,129.212.224.201/32
+DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,lite.liminalnet.com
 DOMAIN-SUFFIX,jsq.vban.xyz
 DOMAIN-SUFFIX,28.al
