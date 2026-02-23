@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,ofo.033388.xyz
 DOMAIN-SUFFIX,reverse.605305.xyz
 DOMAIN-SUFFIX,link00.okemby.org
 DOMAIN-SUFFIX,link01.okemby.org
-DOMAIN-SUFFIX,cf.wedg.top
+DOMAIN-SUFFIX,wedg.top
 IP-CIDR,129.212.224.201/32
 DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,lite.liminalnet.com
@@ -32,6 +32,7 @@ DOMAIN-KEYWORD,speedtest-babybus
 DOMAIN-SUFFIX,emby.levilde.bond
 DOMAIN-SUFFIX,liminalnet.com
 DOMAIN-SUFFIX,www.lilyemby.com
+DOMAIN-SUFFIX,nano.jmsuper.com
 DOMAIN-SUFFIX,handoumedia.top
 DOMAIN-SUFFIX,emos.best
 DOMAIN-SUFFIX,public.shrekmedia.org
