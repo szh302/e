@@ -1,9 +1,9 @@
 # E代理
 
 DOMAIN-SUFFIX,emby.snove.qzz.io
+DOMAIN-SUFFIX,313445.xyz
 DOMAIN-SUFFIX,line.xmsl.org
 DOMAIN-SUFFIX,loserembylocal.zabc.net
-DOMAIN-SUFFIX,313445.xyz
 DOMAIN-SUFFIX,emby.605305.xyz
 DOMAIN-SUFFIX,ofo.033388.xyz
 DOMAIN-SUFFIX,reverse.605305.xyz
@@ -19,8 +19,11 @@ DOMAIN-SUFFIX,startspoint.com
 DOMAIN-SUFFIX,hka-emby.aliz.work
 DOMAIN-SUFFIX,fworks-emby.webn.cc
 DOMAIN-SUFFIX,fworks-emby.sylu.net
+DOMAIN-SUFFIX,mi.miraiemby.com
+DOMAIN-SUFFIX,stream-1.miraiemby.com
 DOMAIN-SUFFIX,lite.cn2gias.uk
 DOMAIN-SUFFIX,ichinosekotomi.com
+DOMAIN-SUFFIX,nano.jmsuper.com
 DOMAIN-SUFFIX,ch.feiyue.lol
 DOMAIN-SUFFIX,cflocal.xxlb.net
 DOMAIN-SUFFIX,emby.younoyes.com
@@ -32,7 +35,6 @@ DOMAIN-KEYWORD,speedtest-babybus
 DOMAIN-SUFFIX,emby.levilde.bond
 DOMAIN-SUFFIX,liminalnet.com
 DOMAIN-SUFFIX,www.lilyemby.com
-DOMAIN-SUFFIX,nano.jmsuper.com
 DOMAIN-SUFFIX,handoumedia.top
 DOMAIN-SUFFIX,emos.best
 DOMAIN-SUFFIX,public.shrekmedia.org
