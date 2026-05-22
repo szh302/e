@@ -1,0 +1,529 @@
+# I
+
+# 🚀 全球主流海外 AI / LLM / Copilot / ChatBot 分流规则集
+# ==========================================================
+
+# ===== [01] OpenAI / ChatGPT =====
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+
+# ===== [02] Anthropic Claude =====
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-KEYWORD,claude
+
+# ===== [03] Google Gemini =====
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.apps.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,bard
+
+# ===== [04] Microsoft Copilot =====
+# 精准匹配 Copilot 核心服务，避免直接代理 bing.com 导致正常搜索被误伤
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,bing-shopping.microsoft-int.com
+DOMAIN-KEYWORD,copilot
+DOMAIN-KEYWORD,bingai
+
+# ===== [05] Perplexity =====
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-KEYWORD,perplexity
+
+# ===== [06] xAI / Grok =====
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.x.ai
+DOMAIN-KEYWORD,grok
+
+# ===== [07] DeepSeek (海外/全量分流) =====
+DOMAIN-SUFFIX,deepseek.com
+
+# ===== [08] 聚合与社区平台 (Poe / Character / You) =====
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,c.ai
+DOMAIN-SUFFIX,you.com
+DOMAIN-KEYWORD,poe
+DOMAIN-KEYWORD,characterai
+DOMAIN-KEYWORD,youchat
+
+# ===== [09] AI 编程与集成开发 (Cursor / Windsurf / Copilot) =====
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,windsurf.ai
+DOMAIN-SUFFIX,supermaven.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+DOMAIN-SUFFIX,phind.com
+DOMAIN-SUFFIX,cognition.ai
+DOMAIN-SUFFIX,devin.ai
+DOMAIN-KEYWORD,cursor
+DOMAIN-KEYWORD,windsurf
+DOMAIN-KEYWORD,phind
+DOMAIN-KEYWORD,devin
+
+# ===== [10] 前端全栈 AI 构建 (Bolt / v0) =====
+DOMAIN-SUFFIX,bolt.new
+DOMAIN-SUFFIX,v0.dev
+DOMAIN-SUFFIX,vercel.ai
+DOMAIN-SUFFIX,stackblitz.com
+DOMAIN-KEYWORD,v0
+DOMAIN-KEYWORD,bolt
+
+# ===== [11] 图像生成与艺术 (Midjourney / Stability) =====
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,mjcdn.com
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,stablecog.com
+DOMAIN-SUFFIX,leonardo.ai
+DOMAIN-SUFFIX,blackforestlabs.ai
+DOMAIN-KEYWORD,midjourney
+DOMAIN-KEYWORD,stabilityai
+DOMAIN-KEYWORD,stable-diffusion
+DOMAIN-KEYWORD,leonardoai
+
+# ===== [12] 视频与音频生成 (Luma / Pika / Suno / Udio) =====
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,lumalabs.ai
+DOMAIN-SUFFIX,pika.art
+DOMAIN-SUFFIX,suno.ai
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,udio.com
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,elevenlabs.net
+DOMAIN-KEYWORD,runway
+DOMAIN-KEYWORD,suno
+DOMAIN-KEYWORD,udio
+DOMAIN-KEYWORD,elevenlabs
+
+# ===== [13] 开源社区与模型托管 =====
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,huggingfaceusercontent.com
+DOMAIN-KEYWORD,huggingface
+
+# ===== [14] 效率提升与日常 AI 插件 (Monica / Sider / Notion) =====
+DOMAIN-SUFFIX,monica.im
+DOMAIN-SUFFIX,sider.ai
+DOMAIN-SUFFIX,chatpdf.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notionusercontent.com
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,deepl.io
+DOMAIN-SUFFIX,grammarly.com
+DOMAIN-SUFFIX,grammarly.io
+DOMAIN-SUFFIX,canva.com
+DOMAIN-KEYWORD,monica
+DOMAIN-KEYWORD,notion-ai
+DOMAIN-KEYWORD,deepl
+DOMAIN-KEYWORD,grammarly
+DOMAIN-KEYWORD,magicstudio
+
+# ===== [15] 商业大厂 AI (Meta / Mistral) =====
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-KEYWORD,metaai
+DOMAIN-KEYWORD,mistral
+
+# ===== [16] 后端 AI API / 推理与开发平台 =====
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,groqcloud.com
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,fireworks.ai
+DOMAIN-SUFFIX,anyscale.com
+DOMAIN-SUFFIX,modal.com
+DOMAIN-SUFFIX,octoai.cloud
+DOMAIN-SUFFIX,novita.ai
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,ai21.com
+DOMAIN-SUFFIX,inference.net
+DOMAIN-SUFFIX,lmstudio.ai
+DOMAIN-SUFFIX,langchain.com
+DOMAIN-SUFFIX,langsmith.com
+DOMAIN-KEYWORD,groq
+DOMAIN-KEYWORD,cohere
+DOMAIN-KEYWORD,openrouter
+
+# ===== [17] 通用模糊匹配关键词 =====
+DOMAIN-KEYWORD,llm
+DOMAIN-KEYWORD,chatbot
+DOMAIN-KEYWORD,aiapi
+DOMAIN-KEYWORD,generativeai
+DOMAIN-KEYWORD,inference
+
+# ===== [18] 核心 IP 节点（可选，防 DNS 污染） =====
+IP-CIDR,13.107.3.128/32
+IP-CIDR,13.107.42.16/32
+IP-CIDR,104.18.0.0/15,no-resolve
+IP-CIDR,172.64.0.0/13,no-resolve
+# ==========================================================
+# 🚀 全球主流海外 AI / LLM / Copilot / ChatBot 分流规则集
+# ==========================================================
+
+# ===== [01] OpenAI / ChatGPT =====
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+
+# ===== [02] Anthropic Claude =====
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-KEYWORD,claude
+
+# ===== [03] Google Gemini =====
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.apps.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,bard
+
+# ===== [04] Microsoft Copilot =====
+# 精准匹配 Copilot 核心服务，避免直接代理 bing.com 导致正常搜索被误伤
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,bing-shopping.microsoft-int.com
+DOMAIN-KEYWORD,copilot
+DOMAIN-KEYWORD,bingai
+
+# ===== [05] Perplexity =====
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-KEYWORD,perplexity
+
+# ===== [06] xAI / Grok =====
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.x.ai
+DOMAIN-KEYWORD,grok
+
+# ===== [07] DeepSeek (海外/全量分流) =====
+DOMAIN-SUFFIX,deepseek.com
+
+# ===== [08] 聚合与社区平台 (Poe / Character / You) =====
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,c.ai
+DOMAIN-SUFFIX,you.com
+DOMAIN-KEYWORD,poe
+DOMAIN-KEYWORD,characterai
+DOMAIN-KEYWORD,youchat
+
+# ===== [09] AI 编程与集成开发 (Cursor / Windsurf / Copilot) =====
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,windsurf.ai
+DOMAIN-SUFFIX,supermaven.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+DOMAIN-SUFFIX,phind.com
+DOMAIN-SUFFIX,cognition.ai
+DOMAIN-SUFFIX,devin.ai
+DOMAIN-KEYWORD,cursor
+DOMAIN-KEYWORD,windsurf
+DOMAIN-KEYWORD,phind
+DOMAIN-KEYWORD,devin
+
+# ===== [10] 前端全栈 AI 构建 (Bolt / v0) =====
+DOMAIN-SUFFIX,bolt.new
+DOMAIN-SUFFIX,v0.dev
+DOMAIN-SUFFIX,vercel.ai
+DOMAIN-SUFFIX,stackblitz.com
+DOMAIN-KEYWORD,v0
+DOMAIN-KEYWORD,bolt
+
+# ===== [11] 图像生成与艺术 (Midjourney / Stability) =====
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,mjcdn.com
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,stablecog.com
+DOMAIN-SUFFIX,leonardo.ai
+DOMAIN-SUFFIX,blackforestlabs.ai
+DOMAIN-KEYWORD,midjourney
+DOMAIN-KEYWORD,stabilityai
+DOMAIN-KEYWORD,stable-diffusion
+DOMAIN-KEYWORD,leonardoai
+
+# ===== [12] 视频与音频生成 (Luma / Pika / Suno / Udio) =====
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,lumalabs.ai
+DOMAIN-SUFFIX,pika.art
+DOMAIN-SUFFIX,suno.ai
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,udio.com
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,elevenlabs.net
+DOMAIN-KEYWORD,runway
+DOMAIN-KEYWORD,suno
+DOMAIN-KEYWORD,udio
+DOMAIN-KEYWORD,elevenlabs
+
+# ===== [13] 开源社区与模型托管 =====
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,huggingfaceusercontent.com
+DOMAIN-KEYWORD,huggingface
+
+# ===== [14] 效率提升与日常 AI 插件 (Monica / Sider / Notion) =====
+DOMAIN-SUFFIX,monica.im
+DOMAIN-SUFFIX,sider.ai
+DOMAIN-SUFFIX,chatpdf.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notionusercontent.com
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,deepl.io
+DOMAIN-SUFFIX,grammarly.com
+DOMAIN-SUFFIX,grammarly.io
+DOMAIN-SUFFIX,canva.com
+DOMAIN-KEYWORD,monica
+DOMAIN-KEYWORD,notion-ai
+DOMAIN-KEYWORD,deepl
+DOMAIN-KEYWORD,grammarly
+DOMAIN-KEYWORD,magicstudio
+
+# ===== [15] 商业大厂 AI (Meta / Mistral) =====
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-KEYWORD,metaai
+DOMAIN-KEYWORD,mistral
+
+# ===== [16] 后端 AI API / 推理与开发平台 =====
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,groqcloud.com
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,fireworks.ai
+DOMAIN-SUFFIX,anyscale.com
+DOMAIN-SUFFIX,modal.com
+DOMAIN-SUFFIX,octoai.cloud
+DOMAIN-SUFFIX,novita.ai
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,ai21.com
+DOMAIN-SUFFIX,inference.net
+DOMAIN-SUFFIX,lmstudio.ai
+DOMAIN-SUFFIX,langchain.com
+DOMAIN-SUFFIX,langsmith.com
+DOMAIN-KEYWORD,groq
+DOMAIN-KEYWORD,cohere
+DOMAIN-KEYWORD,openrouter
+
+# ===== [17] 通用模糊匹配关键词 =====
+DOMAIN-KEYWORD,llm
+DOMAIN-KEYWORD,chatbot
+DOMAIN-KEYWORD,aiapi
+DOMAIN-KEYWORD,generativeai
+DOMAIN-KEYWORD,inference
+
+# ===== [18] 核心 IP 节点（可选，防 DNS 污染） =====
+IP-CIDR,13.107.3.128/32
+IP-CIDR,13.107.42.16/32
+IP-CIDR,104.18.0.0/15,no-resolve
+IP-CIDR,172.64.0.0/13,no-resolve
+# ==========================================================
+# 🚀 全球主流海外 AI / LLM / Copilot / ChatBot 分流规则集
+# ==========================================================
+
+# ===== [01] OpenAI / ChatGPT =====
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+
+# ===== [02] Anthropic Claude =====
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-KEYWORD,claude
+
+# ===== [03] Google Gemini =====
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.apps.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,bard
+
+# ===== [04] Microsoft Copilot =====
+# 精准匹配 Copilot 核心服务，避免直接代理 bing.com 导致正常搜索被误伤
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,bing-shopping.microsoft-int.com
+DOMAIN-KEYWORD,copilot
+DOMAIN-KEYWORD,bingai
+
+# ===== [05] Perplexity =====
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-KEYWORD,perplexity
+
+# ===== [06] xAI / Grok =====
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.x.ai
+DOMAIN-KEYWORD,grok
+
+# ===== [07] DeepSeek (海外/全量分流) =====
+DOMAIN-SUFFIX,deepseek.com
+
+# ===== [08] 聚合与社区平台 (Poe / Character / You) =====
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,c.ai
+DOMAIN-SUFFIX,you.com
+DOMAIN-KEYWORD,poe
+DOMAIN-KEYWORD,characterai
+DOMAIN-KEYWORD,youchat
+
+# ===== [09] AI 编程与集成开发 (Cursor / Windsurf / Copilot) =====
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,windsurf.ai
+DOMAIN-SUFFIX,supermaven.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+DOMAIN-SUFFIX,phind.com
+DOMAIN-SUFFIX,cognition.ai
+DOMAIN-SUFFIX,devin.ai
+DOMAIN-KEYWORD,cursor
+DOMAIN-KEYWORD,windsurf
+DOMAIN-KEYWORD,phind
+DOMAIN-KEYWORD,devin
+
+# ===== [10] 前端全栈 AI 构建 (Bolt / v0) =====
+DOMAIN-SUFFIX,bolt.new
+DOMAIN-SUFFIX,v0.dev
+DOMAIN-SUFFIX,vercel.ai
+DOMAIN-SUFFIX,stackblitz.com
+DOMAIN-KEYWORD,v0
+DOMAIN-KEYWORD,bolt
+
+# ===== [11] 图像生成与艺术 (Midjourney / Stability) =====
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,mjcdn.com
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,stablecog.com
+DOMAIN-SUFFIX,leonardo.ai
+DOMAIN-SUFFIX,blackforestlabs.ai
+DOMAIN-KEYWORD,midjourney
+DOMAIN-KEYWORD,stabilityai
+DOMAIN-KEYWORD,stable-diffusion
+DOMAIN-KEYWORD,leonardoai
+
+# ===== [12] 视频与音频生成 (Luma / Pika / Suno / Udio) =====
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,lumalabs.ai
+DOMAIN-SUFFIX,pika.art
+DOMAIN-SUFFIX,suno.ai
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,udio.com
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,elevenlabs.net
+DOMAIN-KEYWORD,runway
+DOMAIN-KEYWORD,suno
+DOMAIN-KEYWORD,udio
+DOMAIN-KEYWORD,elevenlabs
+
+# ===== [13] 开源社区与模型托管 =====
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,huggingfaceusercontent.com
+DOMAIN-KEYWORD,huggingface
+
+# ===== [14] 效率提升与日常 AI 插件 (Monica / Sider / Notion) =====
+DOMAIN-SUFFIX,monica.im
+DOMAIN-SUFFIX,sider.ai
+DOMAIN-SUFFIX,chatpdf.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notionusercontent.com
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,deepl.io
+DOMAIN-SUFFIX,grammarly.com
+DOMAIN-SUFFIX,grammarly.io
+DOMAIN-SUFFIX,canva.com
+DOMAIN-KEYWORD,monica
+DOMAIN-KEYWORD,notion-ai
+DOMAIN-KEYWORD,deepl
+DOMAIN-KEYWORD,grammarly
+DOMAIN-KEYWORD,magicstudio
+
+# ===== [15] 商业大厂 AI (Meta / Mistral) =====
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-KEYWORD,metaai
+DOMAIN-KEYWORD,mistral
+
+# ===== [16] 后端 AI API / 推理与开发平台 =====
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,groqcloud.com
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,fireworks.ai
+DOMAIN-SUFFIX,anyscale.com
+DOMAIN-SUFFIX,modal.com
+DOMAIN-SUFFIX,octoai.cloud
+DOMAIN-SUFFIX,novita.ai
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,ai21.com
+DOMAIN-SUFFIX,inference.net
+DOMAIN-SUFFIX,lmstudio.ai
+DOMAIN-SUFFIX,langchain.com
+DOMAIN-SUFFIX,langsmith.com
+DOMAIN-KEYWORD,groq
+DOMAIN-KEYWORD,cohere
+DOMAIN-KEYWORD,openrouter
+
+# ===== [17] 通用模糊匹配关键词 =====
+DOMAIN-KEYWORD,llm
+DOMAIN-KEYWORD,chatbot
+DOMAIN-KEYWORD,aiapi
+DOMAIN-KEYWORD,generativeai
+DOMAIN-KEYWORD,inference
+
+# ===== [18] 核心 IP 节点（可选，防 DNS 污染） =====
+IP-CIDR,13.107.3.128/32
+IP-CIDR,13.107.42.16/32
+IP-CIDR,104.18.0.0/15,no-resolve
+IP-CIDR,172.64.0.0/13,no-resolve
