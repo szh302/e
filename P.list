@@ -1,9 +1,5 @@
 # E代理
 
-DOMAIN-SUFFIX,e.zhhl.de5.net
-DOMAIN-SUFFIX,u.zhhl.de5.net
-DOMAIN-SUFFIX,a.zhhl.de5.net
-
 DOMAIN-SUFFIX,313445.xyz
 
 DOMAIN-SUFFIX,line.xmsl.org
@@ -12,14 +8,12 @@ DOMAIN-SUFFIX,loserembylocal.zabc.net
 DOMAIN-SUFFIX,605305.xyz
 DOMAIN-SUFFIX,ysz.dpdns.org
 
+DOMAIN-SUFFIX,a.mooguu.top
+
 DOMAIN-SUFFIX,link00.okemby.org
 DOMAIN-SUFFIX,link01.okemby.org
 
 DOMAIN-SUFFIX,embymv.link
-
-DOMAIN-SUFFIX,a.mooguu.top
-
-DOMAIN-SUFFIX,hka-emby.aliz.work
 
 DOMAIN-SUFFIX,fworks-emby.webn.cc
 DOMAIN-SUFFIX,fworks-emby.sylu.net
@@ -28,21 +22,29 @@ DOMAIN-SUFFIX,wcf.3msky.com
 
 DOMAIN-SUFFIX,mi.miraiemby.com
 DOMAIN-SUFFIX,stream-1.miraiemby.com
+DOMAIN-SUFFIX,vip1.miraiemby.com
+DOMAIN-SUFFIX,stream-2.miraiemby.com
 
 DOMAIN-SUFFIX,emby.sadchicktv.com
 DOMAIN-SUFFIX,stream-1.sadchicktv.com
 
+DOMAIN-SUFFIX,lilyemby.com
+DOMAIN-SUFFIX,lilyya.top
+DOMAIN-SUFFIX,lily.lat
+DOMAIN-SUFFIX,lilyemby.cc
+
 DOMAIN-SUFFIX,lite.cn2gias.uk
 
 DOMAIN-SUFFIX,28.al
-DOMAIN-SUFFIX,startspoint.com
 DOMAIN-SUFFIX,aemby.de
+DOMAIN-SUFFIX,startspoint.com
 
 DOMAIN-SUFFIX,ichinosekotomi.com
 
 DOMAIN-SUFFIX,ch.feiyue.lol
 DOMAIN-SUFFIX,fych.feiyue.lol
-DOMAIN-SUFFIX,cflocal.xxlb.net
+
+DOMAIN-SUFFIX,wedg.top
 
 DOMAIN-SUFFIX,emby.younoyes.com
 
@@ -61,10 +63,6 @@ DOMAIN-KEYWORD,asubaka
 DOMAIN-SUFFIX,emby.levilde.bond
 
 DOMAIN-SUFFIX,liminalnet.com
-
-DOMAIN-KEYWORD,lily
-DOMAIN-SUFFIX,free.lilyemby.com
-DOMAIN-SUFFIX,origin.lilyemby.cc
 
 DOMAIN-SUFFIX,emby.echoflix.de
 
