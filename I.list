@@ -55,7 +55,3 @@ DOMAIN-KEYWORD,cursor
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hf.co
 DOMAIN-KEYWORD,huggingface
-
-# ===== [10] 核心IP兜底（防污染）=====
-IP-CIDR,13.107.3.128/32
-IP-CIDR,13.107.42.16/32
