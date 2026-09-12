@@ -29,10 +29,9 @@ DOMAIN-SUFFIX,stream-1.miraiemby.com
 DOMAIN-SUFFIX,emby.sadchicktv.com
 DOMAIN-SUFFIX,stream-1.sadchicktv.com
 
-DOMAIN-SUFFIX,lilyemby.com
+DOMAIN-KEYWORD,lilyemby
 DOMAIN-SUFFIX,lilyya.top
 DOMAIN-SUFFIX,lily.lat
-DOMAIN-SUFFIX,lilyemby.cc
 DOMAIN-SUFFIX,fastboostcdn.com
 
 DOMAIN-SUFFIX,lite.cn2gias.uk
@@ -50,6 +49,8 @@ DOMAIN-SUFFIX,a.wedg.top
 DOMAIN-SUFFIX,tt.wedg.top
 DOMAIN-SUFFIX,nhk.wemby.top
 DOMAIN-SUFFIX,us.wedg.top
+
+DOMAIN-SUFFIX,eoos.top
 
 DOMAIN-SUFFIX,emby.younoyes.com
 
@@ -75,9 +76,11 @@ DOMAIN-SUFFIX,vipdc.covh.eu.org
 DOMAIN-SUFFIX,eb.zzm.li
 DOMAIN-SUFFIX,ftp2.eu.org
 
-
 DOMAIN-SUFFIX,emby.echoflix.de
 DOMAIN-SUFFIX,media.echoflix.de
+
+DOMAIN-SUFFIX,emby.dijia.de
+DOMAIN-SUFFIX,haosao.de
 
 DOMAIN-SUFFIX,handoumedia.top
 
@@ -94,5 +97,3 @@ DOMAIN,emby.bangumi.ca
 DOMAIN-SUFFIX,imetyou.top
 
 DOMAIN-SUFFIX,media.nijigem.by
-
-DOMAIN-SUFFIX,eoos.top
