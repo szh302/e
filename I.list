@@ -1,5 +1,11 @@
 # I
 
+DOMAIN-KEYWORD,hybgzs
+DOMAIN-KEYWORD,anyrouter
+DOMAIN-SUFFIX,api.hohai.eu.org
+DOMAIN-SUFFIX,elysiver.h-e.top
+
+
 # ===== [01] OpenAI / ChatGPT =====
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
