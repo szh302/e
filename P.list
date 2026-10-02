@@ -1,4 +1,5 @@
 # E代理
+DOMAIN-SUFFIX,emby.wtf
 
 DOMAIN-SUFFIX,6767678.xyz
 
@@ -21,8 +22,6 @@ DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,fworks-emby.webn.cc
 DOMAIN-SUFFIX,fworks-emby.sylu.net
 
-DOMAIN-SUFFIX,wcf.3msky.com
-
 DOMAIN-SUFFIX,mi.miraiemby.com
 DOMAIN-SUFFIX,stream-1.miraiemby.com
 
@@ -41,6 +40,9 @@ DOMAIN-SUFFIX,aemby.de
 DOMAIN-SUFFIX,startspoint.com
 
 DOMAIN-SUFFIX,ichinosekotomi.com
+
+DOMAIN-SUFFIX,cf.sfcj.org
+DOMAIN-SUFFIX,media.emby.pro
 
 DOMAIN-SUFFIX,ch.feiyue.lol
 DOMAIN-SUFFIX,fych.feiyue.lol
